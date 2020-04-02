@@ -756,7 +756,8 @@ components:
       x-skaffolder-template: 
       x-skaffolder-resource: 
       x-skaffolder-services: 
-      x-skaffolder-nesteds: 
+      x-skaffolder-nesteds:
+        - 5e85e9778763035aac7a560d
       x-skaffolder-links:
         - 5e85e9778763035aac7a560d
         - 5e85e9848763035aac7a560f
